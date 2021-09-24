@@ -1,0 +1,51 @@
+[
+  {
+        "question": "What is primitive data type in Python?",
+        "answers": [
+            "Tuple",
+            "Structure",
+            "Integer"
+        ],
+        "correct_answer": "3"
+  },
+
+  {"question": "What method converts uppercase character to lowercase ",
+        "answers": [
+            "string.isupper()",
+            "string.lower()",
+            "lower(string)"
+        ],
+        "correct_answer": "2"
+  },
+
+  {
+        "question": "How to get data from user?",
+        "answers": [
+            "input()",
+            "get()",
+            "read()"
+        ],
+        "correct_answer": "1"
+  },
+
+  {
+        "question": "What will be the result of the code: x = 4.5, y = 2, print(x // y)",
+        "answers": [
+            "2.25",
+            "2",
+            "0.5"
+        ],
+        "correct_answer": "2"
+  },
+
+  {
+
+        "question": "how to create an infinite loop?",
+        "answers": [
+            "for True:",
+            "create Loop:",
+            "while True:"
+        ],
+        "correct_answer": "2"
+  }
+]
